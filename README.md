@@ -131,6 +131,7 @@ watch the simulation here: https://www.loom.com/share/111707b9ca30442bb7b56c7b1e
 
 The augmented model successfully completed both tracks with consistent lane-following and better steering behavior.
 ---
+
 ## 🧗 Challenges  i Faced
 
 ** 1. Dependency Conflicts with Simulator**
